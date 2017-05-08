@@ -1,0 +1,6 @@
+# Editor files
+.*.sw*
+.sw*
+
+# InfluxDB run-time data
+/influx-data/
